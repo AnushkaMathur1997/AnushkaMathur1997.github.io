@@ -1241,8 +1241,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rT3YjVUuhB {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rT3YjVUuhB .line {
@@ -1262,6 +1262,14 @@ section.lazy-placeholder:after {
   .cid-rT3YjVUuhB .inner-container {
     width: 100% !important;
   }
+}
+.cid-rT49E0oBKN {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rT49E0oBKN .mbr-section-subtitle {
+  color: #767676;
 }
 .cid-rQwPGgLVUz {
   background: #ffffff;
