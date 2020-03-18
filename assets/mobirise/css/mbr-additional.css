@@ -3195,8 +3195,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rTaLJm4RTh {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 120px;
+  padding-bottom: 0px;
   background: #ffffff;
 }
 .cid-rTaLJm4RTh .media-container-row {
@@ -3219,7 +3219,7 @@ section.lazy-placeholder:after {
   min-height: 1px;
 }
 .cid-rTaLJm4RTh .media-container-row .img-item .img-caption {
-  background: #efefef;
+  background: #ffffff;
   z-index: 2;
   padding: 1rem 1rem;
   word-break: break-word;
@@ -3890,7 +3890,7 @@ section.lazy-placeholder:after {
 }
 .cid-rS2SlS3Qqc {
   padding-top: 30px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #008f97;
 }
 .cid-rS2SlS3Qqc .row-links {
