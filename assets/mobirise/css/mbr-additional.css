@@ -1789,9 +1789,8 @@ section.lazy-placeholder:after {
   color: #232323 !important;
 }
 .cid-rT4hfL0KgD {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-color: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #232323);
 }
 .cid-rT4hfL0KgD .media-container-row {
   flex-direction: row-reverse;
@@ -1829,14 +1828,15 @@ section.lazy-placeholder:after {
   background-color: #ffffff;
 }
 .cid-rT4hy2k8dJ .mbr-text {
-  color: #767676;
+  color: #232323;
 }
 .cid-rT4hoIf1An {
   background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-rT4hoIf1An .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-rT4hoIf1An .mbr-figure {
   margin: 0 auto;
@@ -1854,20 +1854,36 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-rT4hz0j2py {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-smpFziDJqs {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-rT4hz0j2py .mbr-text {
-  color: #767676;
+.cid-smpFziDJqs .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-smpFziDJqs .section-text {
+  padding: 2rem 0;
+}
+.cid-smpFziDJqs .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-smpFziDJqs .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-rT4hpNTucT {
   background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-rT4hpNTucT .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-rT4hpNTucT .mbr-figure {
   margin: 0 auto;
@@ -1887,10 +1903,11 @@ section.lazy-placeholder:after {
 }
 .cid-rT4hrlPFEY {
   background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .cid-rT4hrlPFEY .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-rT4hrlPFEY .mbr-figure {
   margin: 0 auto;
@@ -1907,88 +1924,6 @@ section.lazy-placeholder:after {
   .cid-rT4hrlPFEY .image-block {
     width: 100% !important;
   }
-}
-.cid-rS2SlS3Qqc {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #008f97;
-}
-.cid-rS2SlS3Qqc .row-links {
-  width: 100%;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-rS2SlS3Qqc .social-row {
-  width: 100%;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
-.cid-rS2SlS3Qqc .media-container-row {
-  -webkit-flex-direction: column;
-  flex-direction: column;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-align-items: center;
-  align-items: center;
-}
-.cid-rS2SlS3Qqc .media-container-row .foot-menu {
-  list-style: none;
-  display: flex;
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  padding: 0;
-  margin-bottom: 0;
-}
-.cid-rS2SlS3Qqc .media-container-row .foot-menu li {
-  padding: 0 1rem 1rem 1rem;
-}
-.cid-rS2SlS3Qqc .media-container-row .foot-menu li p {
-  margin: 0;
-}
-.cid-rS2SlS3Qqc .media-container-row .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
-}
-.cid-rS2SlS3Qqc .media-container-row .social-list .mbr-iconfont-social {
-  font-size: 1.5rem;
-  color: #ffffff;
-}
-.cid-rS2SlS3Qqc .media-container-row .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-rS2SlS3Qqc .media-container-row .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-rS2SlS3Qqc .media-container-row .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-rS2SlS3Qqc .media-container-row .social-list {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-}
-.cid-rS2SlS3Qqc .media-container-row .row-copirayt {
-  word-break: break-word;
-  width: 100%;
-}
-.cid-rS2SlS3Qqc .media-container-row .row-copirayt p {
-  width: 100%;
-}
-.cid-rS2SlS3Qqc .media-container-row .mbr-text {
-  text-align: center;
-  color: #ffffff;
 }
 .cid-rQ3BYDUYi7 .navbar {
   background: #feab9b;
