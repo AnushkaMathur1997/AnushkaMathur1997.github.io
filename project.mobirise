@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "Designs.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,7 +51,7 @@
         "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i"
       }
     ],
-    "uniqCompNum": 208,
+    "uniqCompNum": 209,
     "versionPublish": "4.12.0",
     "imageResize": true,
     "screenshot": "screenshot.png",
@@ -4952,6 +4952,25 @@
         {
           "alias": false,
           "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Ever since I was a child, gaming has been my biggest passion. Some of my most memorable childhood memories stem from sitting in front of an old family computer, playing Warcraft and GTA Vice City for countless hours.&nbsp;</p><p><br></p><p>I came from a place where gaming is culturally looked down upon, and the idea of getting into the field was preposterous. Yet, I never lost my passion, and the drive to get into this field no matter how impossible it looked for me. Growing up, the internet speed I had was so slow that it would buffer a 240p video, and yet I would watch numerous letplays on Youtube when I couldn't play the games myself. It didn't matter that it took me an hour to complete a single episode that was mere 30 minutes long, because I loved to watch how different elements of a game came together to create a powerful narrative that could move me to tears.&nbsp;</p><p><br></p><p>When I grew up, I carried my love of video games over to a UI/UX bootcamp where I learned the basics of user experience and design. I learnt color theory, typography, design thinking, accessibility and usability, and It was fascinating to learn all of this and much more, and to realize how much it went into crafting an experience that catapults a game from a mere project into an all time beloved series, and it just made me want to become a designer even more, and help create a game experience so good that it could make children and adults dream of entering this fast growing industry that seemed impossible for me once upon a time.&nbsp;</p><p><br></p><p>My passion and ambition still remains with me, and everytime there is a new problem to solve, it just increases! because then I get to learn something new and get to apply those skills to a new game or app. I am extremely thankful to get an opportunity to grow in a field that is all about learning and daring to go to new heights.&nbsp;</p><p><br></p><p>Speciality: FIGMA, Sketch, Adobe XD, Photoshop and Illustrator.&nbsp;</p><p><br></p><p>Please do not hesitate to contact me even if you just want to chat about gaming or design! I am always appreciative of different outlooks, and ideas, and the idea of being able to share the love of this amazing industry!&nbsp;</p><p><br></p><p>Here's my&nbsp;<a href=\"assets/files/Updated%20Game%20Resume.pdf\" class=\"text-secondary\">Resume</a>.</p><p><br></p><p><br></p><p><br></p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "sDoZnU2aEw",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-5p"
+        },
+        {
+          "alias": false,
+          "_styles": {
             ".navbar": {
               "background": "@menuBgColor",
               "transition": "none",
@@ -5468,25 +5487,6 @@
           "_once": "footers",
           "_params": {},
           "_anchor": "footer7-5n"
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            }
-          },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p>Ever since I was a child, gaming has been my biggest passion. Some of my most memorable childhood memories stem from sitting in front of an old family computer, playing Warcraft and GTA Vice City for countless hours.&nbsp;</p><p><br></p><p>I came from a place where gaming is culturally looked down upon, and the idea of getting into the field was preposterous. Yet, I never lost my passion, and the drive to get into this field no matter how impossible it looked for me. Growing up, the internet speed I had was so slow that it would buffer a 240p video, and yet I would watch numerous letplays on Youtube when I couldn't play the games myself. It didn't matter that it took me an hour to complete a single episode that was mere 30 minutes long, because I loved to watch how different elements of a game came together to create a powerful narrative that could move me to tears.&nbsp;</p><p><br></p><p>When I grew up, I carried my love of video games over to a UI/UX bootcamp where I learned the basics of user experience and design. I learnt color theory, typography, design thinking, accessibility and usability, and It was fascinating to learn all of this and much more, and to realize how much it went into crafting an experience that catapults a game from a mere project into an all time beloved series, and it just made me want to become a designer even more, and help create a game experience so good that it could make children and adults dream of entering this fast growing industry that seemed impossible for me once upon a time.&nbsp;</p><p><br></p><p>My passion and ambition still remains with me, and everytime there is a new problem to solve, it just increases! because then I get to learn something new and get to apply those skills to a new game or app. I am extremely thankful to get an opportunity to grow in a field that is all about learning and daring to go to new heights.&nbsp;</p><p><br></p><p>Speciality: FIGMA, Sketch, Adobe XD, Photoshop and Illustrator.&nbsp;</p><p><br></p><p>Please do not hesitate to contact me even if you just want to chat about gaming or design! I am always appreciative of different outlooks, and ideas, and the idea of being able to share the love of this amazing industry!&nbsp;</p><p><br></p><p>Here's my&nbsp;<a href=\"assets/files/Updated%20Game%20Resume.pdf\" class=\"text-secondary\">Resume</a>.</p><p><br></p><p><br></p><p><br></p><p><b><br></b></p></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "sDoZnU2aEw",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {},
-          "_anchor": "content1-5p"
         }
       ]
     }
