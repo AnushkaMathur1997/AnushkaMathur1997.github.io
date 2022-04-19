@@ -12,7 +12,7 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 31,
+    "uniqCompNum": 37,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png"
   },
@@ -382,6 +382,14 @@
           "_anchor": "ext_menu-m"
         },
         {
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-10"
+        },
+        {
           "_params": {
             "showText": true,
             "outside": false,
@@ -441,7 +449,7 @@
             "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
-            "paddingTop": 3,
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -459,7 +467,7 @@
           },
           "title": "Crypto Combat.",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>The Goal: </b>Design and Develop an online platform that allows users to buy and trade NFTs.</p><p><b>The Challenge: </b>Designing and developing a cryptocurrency platform with limited funds, time while working with an international team.</p><p><br></p><p><br></p><p><br></p><p><br></p><div><b><br></b></div><p></p>",
+          "text": "<p><b>The Goal: </b>Design and Develop an online platform that allows users to buy and trade NFTs.</p><p><b>The Challenge: </b>Designing and developing a cryptocurrency platform with limited funds, time while working with an international team.</p><p><br></p><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -468,72 +476,103 @@
           "_anchor": "msg-box3-t"
         },
         {
-          "_inherit": "msg-box5",
           "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showText": false,
+            "outside": false
           },
           "media": {
             "image": {
               "active": true,
+              "src": "@PROJECT_PATH@/assets/images/15-rules26-700x270.png",
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/the-ux-design-process-everything-you-need-to-know-2-602x253.png",
               "link": "",
               "alt": "",
               "title": ""
             },
             "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p><br></p><p><br></p>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Theme"
           ],
+          "_name": "image2",
+          "_anchor": "image2-v"
+        },
+        {
+          "text": "<p><br></p><p><b>1</b>) <b>Product Definition: </b>The timeframe, features required, success metrics, budget, and the end goal of the product were defined. Jira, Zoom and Discord were the main applications used to facillate this conversation between the team.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-w",
           "_styles": {
-            ".mbr-header__text": {
-              "color": "#000000"
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "text": "<p><br></p><p><b>2) Product Research:</b> Gathering and defining the wants and needs of potential users of the product, competitive analysis, SWOT analysis was conducted and presented to the stakeholders at this stage.</p><p><br></p><p><b>3) Analysis:</b> From the research we summarized our target audience are people between the ages of 22-30 situated in North America. They liked to play videogames, and were looking to invest in cryptocurrency.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-y"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
             },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#000000"
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-p"
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-z"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/20220117-182819-1400x788.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-x"
         }
       ]
     }
