@@ -6,13 +6,15 @@
       "name": "default",
       "title": "Mobirise",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#777777"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 37,
+    "uniqCompNum": 49,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png"
   },
@@ -382,39 +384,6 @@
           "_anchor": "ext_menu-m"
         },
         {
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-10"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "outside": false,
-            "bgColor": "#252525"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-u"
-        },
-        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -466,8 +435,8 @@
             "overlayOpacity": 0.5
           },
           "title": "Crypto Combat.",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>The Goal: </b>Design and Develop an online platform that allows users to buy and trade NFTs.</p><p><b>The Challenge: </b>Designing and developing a cryptocurrency platform with limited funds, time while working with an international team.</p><p><br></p><p></p>",
+          "meta": "",
+          "text": "<p><b>The Goal: </b>Design and develop an online platform that allows users to buy and trade game based NFT items.</p><p><b>The Challenge: </b>Designing and developing a cryptocurrency platform with limited funds and time, while working with an international team.</p><p><br></p><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -503,7 +472,7 @@
           "_anchor": "image2-v"
         },
         {
-          "text": "<p><br></p><p><b>1</b>) <b>Product Definition: </b>The timeframe, features required, success metrics, budget, and the end goal of the product were defined. Jira, Zoom and Discord were the main applications used to facillate this conversation between the team.&nbsp;</p>",
+          "text": "<p><br></p><p><b>1</b>) <b>Product Definition: </b>The timeframe, features required, success metrics, budget, and the end goal of the product were defined. Jira, Zoom and Discord were the main applications used to facillate this conversation between the team.&nbsp;</p><p><br></p><p><b>2) Product Research:</b>&nbsp;To validate the product idea, competitive and SWOT analysis were conducted during this stage. Users from the subreddit r/CryptoCurrency were interviewed to identify the users' wants and needs.The main user problem was that the competitors' websites was hard to navigate, and lacked information, which lead to user frustration.&nbsp;</p><p><br></p><p><b>3) Analysis:</b>&nbsp;Using the user interviews, we summarized that our target audience are people between the ages of 22-30 situated in North America. They are looking to invest Cryptocurrency, and due to the pandemic, were interested in apps where they could socialise as well.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -516,12 +485,44 @@
           }
         },
         {
-          "text": "<p><br></p><p><b>2) Product Research:</b> Gathering and defining the wants and needs of potential users of the product, competitive analysis, SWOT analysis was conducted and presented to the stakeholders at this stage.</p><p><br></p><p><b>3) Analysis:</b> From the research we summarized our target audience are people between the ages of 22-30 situated in North America. They liked to play videogames, and were looking to invest in cryptocurrency.&nbsp;</p>",
+          "_params": {
+            "showText": false,
+            "outside": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/5-engun-1184x842.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-z"
+        },
+        {
+          "text": "<p><b>4) Design:&nbsp;</b>Once enough information was gathered, the designs were created using Figma. Crypto website such as Opensea.io, Coinbase and Binance were used as inspiration to ensure familiarity of the interface. Each Iteration went through approval of stakeholders, and 4 users were interviewed before moving from the mid-fidelity design to the MVP.&nbsp;<br></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-y"
+          "_anchor": "content1-11",
+          "_styles": {
+            "DIV": {
+              "color": "#777777"
+            }
+          }
         },
         {
           "_params": {
@@ -545,7 +546,116 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-z"
+          "_anchor": "image2-1c"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-13"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-15"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1a"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1b"
+        },
+        {
+          "text": "<p><br></p><p><br></p><div><br></div><p></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-12",
+          "_styles": {
+            "DIV": {
+              "color": "#777777"
+            }
+          }
         },
         {
           "_params": {
