@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "page3.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -678,7 +678,7 @@
           "_anchor": "image2-2l"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://www.figma.com/proto/uX9KETdcSha4vsm5s1XO81/Untitled?node-id=3%3A140&amp;scaling=min-zoom&amp;page-id=0%3A1&amp;starting-point-node-id=3%3A27\" data-toolbar=\"-mbrBtnMove\">View Desktop Prototype</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.figma.com/proto/p9BjyvV7xBqKbQXQ5nb42z/Untitled?node-id=1%3A154&amp;scaling=min-zoom&amp;page-id=0%3A1&amp;starting-point-node-id=1%3A876\" data-toolbar=\"-mbrBtnMove\">View Mobile Prototype</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://www.figma.com/proto/uX9KETdcSha4vsm5s1XO81/Untitled?node-id=3%3A140&amp;scaling=min-zoom&amp;page-id=0%3A1&amp;starting-point-node-id=3%3A27\" data-toolbar=\"-mbrBtnMove\">View Desktop Prototype</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.figma.com/proto/p9BjyvV7xBqKbQXQ5nb42z/Untitled?node-id=1%3A876&amp;scaling=min-zoom&amp;page-id=0%3A1&amp;starting-point-node-id=1%3A876\" data-toolbar=\"-mbrBtnMove\">View Mobile Prototype</a>",
           "_tags": [
             "Theme"
           ],
