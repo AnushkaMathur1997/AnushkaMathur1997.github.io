@@ -28,6 +28,9 @@
 #msg-box4-e .mbr-article {
   color: #000000;
 }
+#header3-2t H3 {
+  text-align: center;
+}
 #ext_menu-m .mbr-brand__name {
   font-size: 16px;
 }
@@ -52,8 +55,17 @@
 #content1-11 DIV {
   color: #777777;
 }
-#content1-12 DIV {
-  color: #777777;
+#msg-box4-2w .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-2w .mbr-header__subtext {
+  color: #000000;
+}
+#msg-box4-2w .mbr-article {
+  color: #ffffff;
+}
+#header3-2v H3 {
+  text-align: center;
 }
 #ext_menu-1g .mbr-brand__name {
   font-size: 16px;
@@ -79,8 +91,17 @@
 #content1-1m DIV {
   color: #777777;
 }
-#content1-1t DIV {
-  color: #777777;
+#msg-box4-2y .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-2y .mbr-header__subtext {
+  color: #000000;
+}
+#msg-box4-2y .mbr-article {
+  color: #ffffff;
+}
+#header3-2x H3 {
+  text-align: center;
 }
 #ext_menu-1x .mbr-brand__name {
   font-size: 16px;
@@ -102,6 +123,9 @@
 }
 #msg-box4-2e .mbr-article {
   color: #000000;
+}
+#header3-2u H3 {
+  text-align: center;
 }
 #ext_menu-1z .mbr-brand__name {
   font-size: 16px;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-18_2028",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -14,7 +14,7 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 97,
+    "uniqCompNum": 107,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png"
   },
@@ -138,7 +138,10 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/frame-1cc-1400x788.png",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -241,6 +244,23 @@
         },
         {
           "_params": {
+            "showMeta": false
+          },
+          "title": "&nbsp; &nbsp;Lets work together:&nbsp;<br><a href=\"https://www.linkedin.com/in/anushkamathur97/\">LinkedIn</a><br><a href=\"mailto:anushkamathur97@gmail.com\">E-mail</a>",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2t",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -252,7 +272,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "Copyright (c) 2021 Anushka Mathur. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -331,7 +351,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "Copyright (c) 2021 Anushka Mathur. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -521,8 +541,8 @@
             "showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/marketplacemidfima-1-1440x1018.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/marketplacefinal-1440x1018.png",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -530,6 +550,19 @@
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/landing-page-currently-in-use-mid-fimidfila-1400x2643.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": false,
                 "alt": ""
               },
               {
@@ -542,19 +575,6 @@
                 "contentAlign": "left",
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/landing-page-currently-in-use-mid-fimidfila-1400x2643.png",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": false,
                 "alt": ""
               }
             ]
@@ -574,7 +594,7 @@
             "showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/marketplacemarketplace-1-1440x1018.png",
+                "image": "@PROJECT_PATH@/assets/images/marketplacefinal-final-1440x1018.png",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -655,7 +675,7 @@
         },
         {
           "_params": {
-            "showText": true,
+            "showText": false,
             "outside": false
           },
           "media": {
@@ -681,31 +701,7 @@
           "_anchor": "image2-1a"
         },
         {
-          "_params": {
-            "showText": true,
-            "outside": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-1b"
-        },
-        {
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "<p><b>Final Thoughts:</b>&nbsp;Due to project cancellation, this project remained unfinished. Therefore, no further product validation will take place. However, it was a learning experience in working with many developers from across the world despite limited funding and time contraints, and creating a product that almost had an MVP.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -713,44 +709,89 @@
           "_anchor": "content1-1d"
         },
         {
-          "text": "<p><br></p><p><br></p><div><br></div><p></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-12",
-          "_styles": {
-            "DIV": {
-              "color": "#777777"
-            }
-          }
-        },
-        {
+          "_inherit": "msg-box5",
           "_params": {
+            "showTitle": true,
+            "showMeta": true,
             "showText": false,
-            "outside": true
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/20220117-182819-1400x788.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/frame-1-1-1080x1080.png",
               "link": "",
               "alt": "",
               "title": ""
             },
             "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "Convo Case Study<br>",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-x"
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "<span style=\"font-style: normal;\">Personal Project | App Design</span>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a>  ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2w"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "&nbsp; &nbsp;Let's work together:&nbsp;<br><a href=\"https://www.linkedin.com/in/anushkamathur97/\">LinkedIn</a><br><a href=\"mailto:anushkamathur97@gmail.com\">E-mail</a>",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-2v"
         }
       ]
     },
@@ -824,7 +865,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "Copyright (c) 2021 Anushka Mathur. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -1104,17 +1145,89 @@
           "_anchor": "content1-1s"
         },
         {
-          "text": "<p><br></p><p><br></p><div><br></div><p></p>",
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/frame-1cc-1400x788.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Crypto Combat Case Study",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
           "_styles": {
-            "DIV": {
-              "color": "#777777"
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#000000"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
             }
           },
-          "_anchor": "content1-1t"
+          "headerAlign": "left",
+          "meta": "<span style=\"font-style: normal;\">Responsive Design | UX Research</span>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Learn More</a>  ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2y"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "&nbsp; &nbsp;Let's work together:&nbsp;<br><a href=\"https://www.linkedin.com/in/anushkamathur97/\">LinkedIn</a><br><a href=\"mailto:anushkamathur97@gmail.com\">E-mail</a>",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-2x"
         }
       ]
     },
@@ -1176,14 +1289,6 @@
           "_anchor": "ext_menu-1x"
         },
         {
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-25"
-        },
-        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1196,7 +1301,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "Copyright (c) 2021 Anushka Mathur. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -1250,7 +1355,7 @@
             }
           },
           "title": "About Me",
-          "text": "<p>Hi there! My name is Anushka, and I am self-taught UX/UI Designer. I like to design content that is effortless, delightful and unabashedly human.&nbsp;</p><p><br></p><p>I've used my skills by doing volunteer work for startups and universities, and have become proficient in creating wireframes, prototyping and user research. I'm a teamplayer, and like to work closely and collaborate with developers and designers to create amazing projects from their intital stages to the end product!</p><p><br></p><p>In my spare time I like to illustrate and play video games, and talk about game UI designs, a lot. &nbsp;<br></p><p><br></p><p>Here's my <b>Resume!</b></p><p><br></p><p><br></p><p><br></p>",
+          "text": "<p>Hi there! My name is Anushka, and I am self-taught UX/UI Designer. I like to design content that is effortless, delightful and unabashedly human.&nbsp;</p><p><br></p><p>I've used my skills by doing volunteer work for startups and universities, and have become proficient in creating wireframes, prototyping and doing user research. I'm a teamplayer, and like to collaborate closely with developers and designers to create amazing projects from their intital stages to the end product!</p><p><br></p><p>In my spare time I like to illustrate and play video games, and talk about game UI designs, a lot. &nbsp;<br></p><p><br></p><p>Here's my <b>Resume!</b></p><p><br></p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1272,12 +1377,21 @@
           "_anchor": "msg-box4-2e"
         },
         {
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Lets work together:&nbsp;<br><a href=\"https://www.linkedin.com/in/anushkamathur97/\">LinkedIn</a><br><a href=\"mailto:anushkamathur97@gmail.com\">E-mail</a>",
+          "meta": "By John Smith posted July 30, 2015",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-24"
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-2u"
         }
       ]
     },
@@ -1351,7 +1465,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "Copyright (c) 2021 Anushka Mathur. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
