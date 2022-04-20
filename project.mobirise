@@ -1088,14 +1088,6 @@
           "_anchor": "image2-1o"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://www.figma.com/file/3OpjqsAi3CjU15VZk20pQK/Untitled?node-id=0%3A1\" data-toolbar=\"-mbrBtnMove\">View Mobile Prototype</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-1v"
-        },
-        {
           "_params": {
             "showText": false,
             "outside": false
@@ -1121,6 +1113,14 @@
           ],
           "_name": "image2",
           "_anchor": "image2-1p"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://www.figma.com/file/3OpjqsAi3CjU15VZk20pQK/Untitled?node-id=0%3A1\" data-toolbar=\"-mbrBtnMove\">View Mobile Prototype</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1v"
         },
         {
           "_params": {
