@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -164,7 +164,7 @@
             }
           },
           "title": "Crypto Combat.",
-          "text": "<p>Crypto Combat is a cryptocurrency based website that provides an accesible and simple way to buy and trade NFT.&nbsp;<br></p>",
+          "text": "<p>Crypto Combat is a cryptocurrency based website that provides an accessible and simple way to buy and trade game based NFT.&nbsp;<br></p>",
           "_tags": [
             "Theme"
           ],
