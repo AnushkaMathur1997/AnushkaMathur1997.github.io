@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-04-18_2028",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -63,11 +63,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/am-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -88,8 +89,8 @@
             "showArrow": true,
             "contentAlign": "right",
             "bgImageRadio": false,
-            "bgImage": "images/bg5.jpg",
-            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.png",
+            "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#4c6972",
             "bgVideoRadio": false,
@@ -267,7 +268,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#444444",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -322,11 +323,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/am-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -346,7 +348,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#444444",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -836,11 +838,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/am-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -860,7 +863,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#444444",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1272,11 +1275,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/am-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1296,7 +1300,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#444444",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -1355,7 +1359,7 @@
             }
           },
           "title": "About Me",
-          "text": "<p>Hi there! My name is Anushka, and I am self-taught UX/UI Designer. I like to design content that is effortless, delightful and unabashedly human.&nbsp;</p><p><br></p><p>I've used my skills by doing volunteer work for startups and universities, and have become proficient in creating wireframes, prototyping and doing user research. I'm a teamplayer, and like to collaborate closely with developers and designers to create amazing projects from their intital stages to the end product!</p><p><br></p><p>In my spare time I like to illustrate and play video games, and talk about game UI designs, a lot. &nbsp;<br></p><p><br></p><p>Here's my <b>Resume!</b></p><p><br></p><p><br></p><p><br></p>",
+          "text": "<p>Hi there! My name is Anushka, and I am self-taught UX/UI Designer. I like to design content that is effortless, delightful and unabashedly human.&nbsp;</p><p><br></p><p>I've used my skills by doing volunteer work for startups and universities, and have become proficient in creating wireframes, prototyping and doing user research. I'm a teamplayer, and like to collaborate closely with developers and designers to create amazing projects from their intital stages to the end product!</p><p><br></p><p>In my spare time I like to illustrate and play video games, and talk about game UI designs, a lot. &nbsp;<br></p><p><br></p><p>Here's my <b><a href=\"assets/files/UX:UI resume.pdf\">Resume</a>! </b>(pdf format)<b>&nbsp;</b></p><p><b><br></b></p><p><br></p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1436,11 +1440,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/am-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1460,7 +1465,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#444444",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
