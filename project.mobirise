@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "page1.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1351,7 +1351,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20210711-wa0029-772x667.png",
+              "src": "@PROJECT_PATH@/assets/images/img-20210711-wa0029-1-772x667.png",
               "link": "",
               "alt": "",
               "title": ""
