@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "page4.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -479,7 +479,7 @@
           "_anchor": "image2-z"
         },
         {
-          "text": "<p><b>4) Design:&nbsp;</b>Once enough information was gathered, the designs were created using Figma. Crypto website such as Opensea.io, Coinbase and Binance were used as inspiration to ensure familiarity of the interface. Each Iteration went through approval of stakeholders, and 4 users via Discord were interviewed before moving from the mid-fidelity design to the MVP.&nbsp;<br></p>",
+          "text": "<p><b>4) Design:&nbsp;</b>Once enough information was gathered, the designs were created using Figma. Crypto websites such as Opensea.io, Coinbase and Binance were used as an inspiration to ensure familiarity of the interface. Each Iteration went through approval of stakeholders, and 4 users via Discord were interviewed before moving from the mid-fidelity design to the MVP.&nbsp;<br></p>",
           "_tags": [
             "Theme"
           ],
