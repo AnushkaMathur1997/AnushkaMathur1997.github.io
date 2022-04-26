@@ -1330,7 +1330,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "29",
+            "imageSize": "15",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -1351,7 +1351,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20210711-wa0029-1-772x667.png",
+              "src": "@PROJECT_PATH@/assets/images/20220425-224722-427x799.jpg",
               "link": "",
               "alt": "",
               "title": ""
