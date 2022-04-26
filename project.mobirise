@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "page4.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -439,7 +439,7 @@
           "_anchor": "image2-v"
         },
         {
-          "text": "<p><br></p><p><b>1</b>) <b>Product Definition: </b>The timeframe, features required, success metrics, budget, and the end goal of the product were defined. Jira, Zoom and Discord were the main applications used to facillitate this conversation between the team.&nbsp;</p><p><br></p><p><b>2) Product Research:</b>&nbsp;To validate the product idea, competitive and SWOT analysis were conducted during this stage. 5 Users from the subreddit r/CryptoCurrency were interviewed to identify the users' main needs. The key findings were that the other websites were hard to navigate, and lacked crucial information making it difficult for the user to invest in them.</p><p><br></p><p><b>3) Analysis:</b>&nbsp;Using the user interviews, we summarized that our target audience are people between the ages of 22-30 situated in North America, and were looking to invest in different kinds of Cryptocurrency.</p>",
+          "text": "<p><br></p><p><b>1</b>) <b>Product Definition: </b>The timeframe, features required, success metrics, budget, and the end goal of the product were defined. Jira, Zoom and Discord were the main applications used to facilitate this conversation between the team.&nbsp;</p><p><br></p><p><b>2) Product Research:</b>&nbsp;To validate the product idea, competitive and SWOT analysis were conducted during this stage. 5 Users from the subreddit r/CryptoCurrency were interviewed to identify the users' main needs. The key findings were that the other websites were hard to navigate, and lacked crucial information making it difficult for the user to invest in them.</p><p><br></p><p><b>3) Analysis:</b>&nbsp;Using the user interviews, we summarized that our target audience are people between the ages of 22-30 situated in North America, and were looking to invest in different kinds of Cryptocurrency.</p>",
           "_tags": [
             "Theme"
           ],
@@ -713,7 +713,7 @@
           "_anchor": "image2-1a"
         },
         {
-          "text": "<p><b>Final Thoughts:</b>&nbsp;Due to project cancellation, this project remains unfinished. Therefore, no further product validation will take place. However, it was a learning experience in working with many developers from across the world despite limited funding and time contraints, and creating a product that almost had an MVP.&nbsp;</p>",
+          "text": "<p><b>Final Thoughts:</b>&nbsp;Due to project cancellation, this project remains unfinished. Therefore, no further product validation will take place. However, it was a learning experience in working with many developers from across the world despite limited funding and time constraints, and creating a product that almost had an MVP.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
