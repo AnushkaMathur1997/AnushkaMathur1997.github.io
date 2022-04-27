@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "page1.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -994,7 +994,7 @@
           "_anchor": "image2-1l"
         },
         {
-          "text": "<p><b><br></b></p><p><b>4) Design: </b>Designs&nbsp;were created using Figma, and competitor apps such as Wysa and MyPossibleSelf were used as inspiration to maintain familarity of the UI. Iterations needed UX mentor approval before moving on to the new stage.&nbsp;</p>",
+          "text": "<p><b><br></b></p><p><b>4) Design: </b>Designs&nbsp;were created using Figma, and competitor apps such as Wysa and MyPossibleSelf were used as inspiration to maintain familiarity of the UI. Iterations needed UX mentor approval before moving on to the new stage.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -1150,7 +1150,7 @@
           "_anchor": "image2-1q"
         },
         {
-          "text": "<p><b>Validation: </b>The Design was simple, and it allowed <b>communication between mental health support and student efficiently. </b>The colors were accesibility friendly and visual heriarchy was paid great attention to.</p><p>However, common criticisms were that this design lacked consistency, and there was too much clutter. Thus, future redesigns will be done to address those problems.&nbsp;<br></p>",
+          "text": "<p><b>Validation: </b>The Design was simple, and it allowed <b>communication between mental health support and student efficiently. </b>The colors were accessibility friendly and visual hierarchy was paid great attention to.</p><p>However, common criticisms were that this design lacked consistency, and there was too much clutter. Thus, future redesigns will be done to address those problems.&nbsp;<br></p>",
           "_tags": [
             "Theme"
           ],
