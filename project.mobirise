@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "Page1.html",
+    "currentPage": "Page.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1409,7 +1409,7 @@
         }
       ]
     },
-    "Page1.html": {
+    "Page.html": {
       "settings": {
         "meta_descr": "Contact Me",
         "title": "Contact",
