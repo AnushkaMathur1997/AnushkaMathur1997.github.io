@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio-clone",
-    "currentPage": "page5.html",
+    "currentPage": "Index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -109,7 +109,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Hi there, I'm Anushka.",
-          "text": "UX and UI Designer passionate about creating meaningful, intuitive, and accessible user centric designs.",
+          "text": "SOC Analyst | UX/UI Designer passionate about creating secure, intuitive, and accessible user centric designs.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
