@@ -31,6 +31,12 @@
 #header3-2t H3 {
   text-align: center;
 }
+#msg-box3-4a .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-4a .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
 #ext_menu-m .mbr-brand__name {
   font-size: 16px;
 }
